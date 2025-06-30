@@ -15,7 +15,7 @@
             <pubDate>Sun, 29 Jun 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[What if the story of accessibility isn’t about disability, but about neglect?]]></description>
             <content:encoded><![CDATA[<p>What if the story of accessibility isn’t about disability, but about <strong>neglect</strong>?</p>
-<p>When accessibility fails, it’s easy to assume something went wrong at the technical level: a missing label, a broken shortcut, a screen reader incompatibility. But the deeper truth is simpler—and harder. <strong>Accessibility fails when care fails.</strong></p>
+<p>When accessibility fails, it’s easy to assume something went wrong at the technical level: a missing label, a broken shortcut, a screen reader incompatibility. But the deeper truth is simpler -- and harder. <strong>Accessibility fails when care fails.</strong></p>
 <p>The <strong>ENABLE model</strong> begins from that premise. It stands for:</p>
 <blockquote>
 <p><strong>E</strong>arly <strong>N</strong>eglect <strong>A</strong>llows <strong>B</strong>arriers <strong>L</strong>imiting <strong>E</strong>quity.<br>
@@ -32,22 +32,22 @@
 <p>And so ENABLE tracks both acts of <strong>care</strong> and patterns of <strong>burden</strong>.<br>
 <!-- -->It is not just a framework. It’s a story many disabled people already live.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-this-matters">Why this matters<a href="https://enable-model.github.io/blog/introducing-enable#why-this-matters" class="hash-link" aria-label="Direct link to Why this matters" title="Direct link to Why this matters">​</a></h3>
-<p>We’ve all heard about “shifting left” in software. ENABLE extends that thinking—across disciplines, across technologies, and across time. It connects:</p>
+<p>We’ve all heard about “shifting left” in software. ENABLE extends that thinking -- across disciplines, across technologies, and across time. It connects:</p>
 <ul>
 <li>accessibility audits to systemic bias,</li>
 <li>speech interfaces to disability justice,</li>
 <li>AI inclusion to participatory design.</li>
 </ul>
-<p>ENABLE doesn't reinvent accessibility—it organizes it, with clarity and urgency. And yes, it's general enough to encompass not just websites and apps, but services, policies, and AI systems.</p>
+<p>ENABLE doesn't reinvent accessibility -- it organizes it, with clarity and urgency. And yes, it's general enough to encompass not just websites and apps, but services, policies, and AI systems.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What’s next<a href="https://enable-model.github.io/blog/introducing-enable#whats-next" class="hash-link" aria-label="Direct link to What’s next" title="Direct link to What’s next">​</a></h3>
 <p>This blog will break it all down:</p>
 <ul>
 <li>The seven <strong>pre-deployment interventions</strong> and how AI is being used in each.</li>
-<li>The eight categories of <strong>post-deployment compensations</strong>—from installing browser extensions to relying on other humans.</li>
+<li>The eight categories of <strong>post-deployment compensations</strong> -- from installing browser extensions to relying on other humans.</li>
 <li>Real-world stories. Real burdens. Real possibilities.</li>
 </ul>
 <p>This is a living model. A shared language. And hopefully, a rallying cry.</p>
-<p>Let’s explore what accessibility looks like when it’s everyone’s responsibility—<strong>upstream</strong>.</p>
+<p>Let’s explore what accessibility looks like when it’s everyone’s responsibility -- <strong>upstream</strong>.</p>
 <hr>
 <p>💡 <a href="https://enable-model.github.io/docs/intro">Dive into the ENABLE model now →</a></p>]]></content:encoded>
             <category>accessibility</category>
