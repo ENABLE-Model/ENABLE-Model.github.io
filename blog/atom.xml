@@ -2,17 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ENABLE-Model.github.io/blog</id>
     <title>ENABLE Model Blog</title>
-    <updated>2025-06-29T00:00:00.000Z</updated>
+    <updated>2025-07-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ENABLE-Model.github.io/blog"/>
     <subtitle>ENABLE Model Blog</subtitle>
     <entry>
+        <title type="html"><![CDATA[How can various stakeholders use the ENABLE Model to foster a more equitable and accessible world?]]></title>
+        <id>https://ENABLE-Model.github.io/blog/how-various-stakeholders-use-ENABLE-Model-foster-more-equitable-accessible-world</id>
+        <link href="https://ENABLE-Model.github.io/blog/how-various-stakeholders-use-ENABLE-Model-foster-more-equitable-accessible-world"/>
+        <updated>2025-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The ENABLE Model serves as a comprehensive field guide for understanding accessibility failures and, more importantly, for fostering a more equitable and accessible world by mapping the gap between intended care and the burden placed on disabled individuals. It is designed for a wide range of "stakeholders" including builders, caretakers, activists, educators, researchers, leaders, and anyone who believes accessibility is a necessary form of care.]]></summary>
+        <content type="html"><![CDATA[<p>The ENABLE Model serves as a comprehensive field guide for understanding accessibility failures and, more importantly, for fostering a more equitable and accessible world by mapping the gap between intended care and the burden placed on disabled individuals. It is designed for a wide range of "stakeholders" including builders, caretakers, activists, educators, researchers, leaders, and anyone who believes accessibility is a necessary form of care.</p>
+<p>To use the ENABLE Model effectively, stakeholders can approach any broken experience by answering four key questions:</p>
+<ol>
+<li><strong>Where could access have been delivered earlier?</strong> This focuses on <strong>Pre-launch Care</strong>.</li>
+<li><strong>Who's carrying the burden now -- and how?</strong> This highlights <strong>Post-launch Compensations</strong>.</li>
+<li><strong>What caused or sustained the problem?</strong> This explores the <strong>Forces that Disable</strong> and <strong>Forces that Enable</strong>.</li>
+<li><strong>What have people actually done in response -- to prevent harm or survive it?</strong> This involves examining <strong>Manifestations</strong>.</li>
+</ol>
+<p>The model emphasizes that accessibility has two halves: <strong>Pre-launch Care</strong>, which are acts of care preventing inaccessibility before a product or service is released, and <strong>Post-launch Compensations</strong>, which are the acts of survival people are burdened with when accessibility is an afterthought. When care fails upstream with the builders, the burden grows and lands downstream on the end-users. By understanding both sides, stakeholders can take action.</p>
+<p>Here's how various stakeholders can use the ENABLE Model:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-builders-designers-and-developers">1. Builders, Designers, and Developers<a href="https://enable-model.github.io/blog/how-various-stakeholders-use-ENABLE-Model-foster-more-equitable-accessible-world#1-builders-designers-and-developers" class="hash-link" aria-label="Direct link to 1. Builders, Designers, and Developers" title="Direct link to 1. Builders, Designers, and Developers">​</a></h3>
+<p>This group is central to the <strong>Pre-launch Care</strong> phase, where fixes are smaller, cheaper, and kinder. Their role is to proactively embed accessibility.</p>
+<ul>
+<li><strong>Set Requirements that Include Accessibility</strong>: Designers, developers, and project leads should <strong>mandate inclusion from the outset</strong>, defining accessibility as a core obligation rather than an add-on. This prevents exclusion from being "baked into infrastructure". <em>Care sounds like:</em> "Our speech recognition AI must be usable by people who stutter". <em>Neglect sounds like:</em> "Accessibility is not a deliverable" or "It's not in the spec". Examples include incorporating WCAG 2.2 compliance into design contracts or making accessibility part of the "definition of done" for all features.</li>
+<li><strong>Create Accessible Content</strong>: Content creators must ensure words, images, media, documents, and data are perceivable, understood, and interactive for people with disabilities in accessible formats. <em>Care sounds like:</em> "Our slide deck must include alt text for all images" or "Let's produce a transcript and a plain language summary alongside this podcast". <em>Neglect sounds like:</em> "The visuals are self-explanatory, no need to describe them".</li>
+<li><strong>Design Accessible Experiences</strong>: Designers should intentionally create user interfaces and interactions that are equitably usable, considering a range of impairments and ensuring compatibility with assistive technologies. <em>Care sounds like:</em> "We've built keyboard navigation into every interactive element". <em>Neglect sounds like:</em> "We only designed for the average user".</li>
+<li><strong>Develop Accessible Implementations</strong>: Developers must build technology that supports inclusive use, choosing appropriate tools, frameworks, markup, and logic to ensure functional accessibility. <em>Care sounds like:</em> "All interactive elements must be reachable and operable by keyboard". <em>Neglect sounds like:</em> "It works with a mouse -- good enough".</li>
+<li><strong>Test for Accessibility</strong>: QA teams and developers must evaluate digital products to ensure people with disabilities can perceive, operate, understand, and interact with them, ideally involving disabled users in manual and automated testing. <em>Care sounds like:</em> "We included blind and motor-impaired testers in our usability test". <em>Neglect sounds like:</em> "We didn't have time for a full accessibility audit".</li>
+<li><strong>Triage and Prioritize Accessibility Issues</strong>: Teams must assess the severity, impact, and urgency of discovered accessibility issues, treating them as essential, top-priority blockers. <em>Care sounds like:</em> "Accessibility failures are not tech debt -- they're production bugs". <em>Neglect sounds like:</em> "Only one user reported that issue, so it's not a priority".</li>
+<li><strong>Iterate to Address Shortcomings</strong>: This involves making continuous improvements based on testing and feedback, ensuring that accessibility is a recurring obligation, not a one-time task. <em>Care sounds like:</em> "We got feedback from a blind user who couldn't complete the checkout process -- we're deploying a fix in the next sprint". <em>Neglect sounds like:</em> "We already launched; we can't prioritize that kind of fix at this point".</li>
+<li><strong>Create Stopgaps</strong>: When full accessibility isn't immediately feasible, builders can introduce temporary, partial measures to reduce harm in the short term, with a clear plan for long-term remediation. <em>Care sounds like:</em> "We know this is a partial solution -- here's what we can offer right now while we work on a real fix". <em>Neglect sounds like:</em> "Accessibility is coming later. Users will just have to wait".</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-leaders-policymakers-and-decision-makers">2. Leaders, Policymakers, and Decision-Makers<a href="https://enable-model.github.io/blog/how-various-stakeholders-use-ENABLE-Model-foster-more-equitable-accessible-world#2-leaders-policymakers-and-decision-makers" class="hash-link" aria-label="Direct link to 2. Leaders, Policymakers, and Decision-Makers" title="Direct link to 2. Leaders, Policymakers, and Decision-Makers">​</a></h3>
+<p>This group sets the strategic direction and allocates resources, crucially influencing <strong>Requirements Setting</strong>, <strong>Triage and Prioritization</strong>, and <strong>Iteration</strong>.</p>
+<ul>
+<li>They can <strong>implement institutional policies</strong> like Section 508 or ADA standards, ensuring accessibility is non-negotiable in procurement and project definitions.</li>
+<li>They must <strong>ensure accessibility issues are not deprioritized</strong> or dismissed, understanding that such neglect delays remediation and communicates to disabled users that their needs are non-essential.</li>
+<li>They can <strong>prevent abandonment</strong>, which occurs when accessibility that once existed is withdrawn, by budgeting for long-term accessibility and preventing regressions.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-educators-and-content-creators">3. Educators and Content Creators<a href="https://enable-model.github.io/blog/how-various-stakeholders-use-ENABLE-Model-foster-more-equitable-accessible-world#3-educators-and-content-creators" class="hash-link" aria-label="Direct link to 3. Educators and Content Creators" title="Direct link to 3. Educators and Content Creators">​</a></h3>
+<p>These stakeholders shape future norms and ensure foundational materials are accessible.</p>
+<ul>
+<li><strong>Integrate accessibility into curricula</strong>: Educators can use the ENABLE Model to teach students about inclusive design, accessible content creation, and the societal cost of neglect. For example, medical schools can update curricula with first-person disability perspectives.</li>
+<li><strong>Produce inherently accessible materials</strong>: Similar to builders, educators and content creators should ensure their content includes alt text, captions, transcripts, and plain language summaries from the start.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-activists-advocates-and-researchers">4. Activists, Advocates, and Researchers<a href="https://enable-model.github.io/blog/how-various-stakeholders-use-ENABLE-Model-foster-more-equitable-accessible-world#4-activists-advocates-and-researchers" class="hash-link" aria-label="Direct link to 4. Activists, Advocates, and Researchers" title="Direct link to 4. Activists, Advocates, and Researchers">​</a></h3>
+<p>These groups play a vital role in identifying, documenting, and pushing for change when accessibility breaks down.</p>
+<ul>
+<li><strong>Recognize and document Post-launch Compensations</strong>: Activists and researchers can use the model to identify how users are burdened with <strong>Assistive Technologies</strong>, <strong>Third-party Tools</strong>, <strong>System Settings changes</strong>, <strong>User Workarounds</strong>, <strong>Human Help</strong>, <strong>Feedback &amp; Bug Reports</strong>, <strong>Legal Action</strong>, <strong>Protest &amp; Public Pressure</strong>, or being forced to <strong>Switch to Alternatives</strong>. Each compensation signals a systemic failure upstream.</li>
+<li><strong>Assert Rights and Stage Protests</strong>: When other avenues fail, advocates and users can formally demand accessibility through legal complaints (e.g., ADA, Section 508) or public pressure campaigns. This forces institutions to confront neglect.</li>
+<li><strong>Use Media, Storytelling, and Advocacy</strong>: This is a powerful force that shapes behavior across all ENABLE stages. Stakeholders can publish first-person accounts, document unaddressed gaps, expose hidden labor through videos, elevate community demands, and embed disabled voices in planning. This isn't just "raising awareness," but strategically influencing how care is prioritized.</li>
+<li><strong>Understand Forces that Disable</strong>: Researchers and advocates can analyze structural, cultural, and organizational choices that lead to failures, such as <strong>Abandonment</strong> (when accessibility is withdrawn) or <strong>Disability Dongles</strong> (flashy, useless tools designed without disabled people).</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-users-and-teammates">5. Users and Teammates<a href="https://enable-model.github.io/blog/how-various-stakeholders-use-ENABLE-Model-foster-more-equitable-accessible-world#5-users-and-teammates" class="hash-link" aria-label="Direct link to 5. Users and Teammates" title="Direct link to 5. Users and Teammates">​</a></h3>
+<p>Even without formal roles in development or policy, individuals can contribute by recognizing and reporting issues, and by understanding their own compensatory actions.</p>
+<ul>
+<li><strong>Spotting workarounds</strong>: Users can recognize when they are creating workarounds or relying on assistive technologies, prompting them to look into the <strong>Post-launch Compensations</strong> section.</li>
+<li><strong>Providing Feedback</strong>: Users can submit bug reports and feedback, holding creators accountable for accessibility issues. While this is a burden, it can also be a catalyst for improvement.</li>
+</ul>
+<p>In essence, the ENABLE Model provides a <strong>vocabulary for care and neglect</strong>, a <strong>map of roles</strong>, a <strong>structure that includes tech, policy, education, and more</strong>, and a <strong>compass for anyone who wants to build a more equitable world</strong>. It shifts the focus from disability as a personal problem to inaccessibility as a systemic failure, encouraging proactive solutions over reactive burdens.</p>
+<p>Utilizing the ENABLE Model is like being a cartographer for a complex city: you don't just map the inaccessible roads (post-launch compensations) but also identify where the bridges could have been built (pre-launch care), recognize the forces that allowed roads to crumble, and share stories of those navigating the terrain, all to ultimately help redesign the city to be traversable for everyone.</p>
+<hr>
+<p>💡 <a href="https://enable-model.github.io/docs/intro">Dive into the ENABLE model now →</a></p>]]></content>
+        <author>
+            <name>Lawrence (Larry) Weru</name>
+            <uri>https://lweru.com</uri>
+        </author>
+        <category label="accessibility" term="accessibility"/>
+        <category label="equity" term="equity"/>
+        <category label="design" term="design"/>
+        <category label="AI" term="AI"/>
+        <category label="systems-thinking" term="systems-thinking"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How would the ENABLE model explain the phenomenon where people with disabilities are more likely to be entrepreneurs?]]></title>
         <id>https://ENABLE-Model.github.io/blog/how-enable-model-explains-disabled-entrepreneurship</id>
         <link href="https://ENABLE-Model.github.io/blog/how-enable-model-explains-disabled-entrepreneurship"/>
-        <updated>2025-06-29T00:00:00.000Z</updated>
+        <updated>2025-07-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[People with disabilities are more likely to be entrepreneurs. The ENABLE model provides a framework for understanding accessibility breakdowns and the resulting burden placed on disabled individuals. The ENABLE model explains how systemic inaccessibility cultivates skills and conditions that can lead to entrepreneurial endeavors as a form of response and survival.]]></summary>
-        <content type="html"><![CDATA[<p>People with disabilities are <em>more likely</em> to be entrepreneurs. The ENABLE model provides a framework for understanding accessibility breakdowns and the resulting burden placed on disabled individuals<sup><a href="https://enable-model.github.io/blog/how-enable-model-explains-disabled-entrepreneurship#user-content-fn-1-8e6030" id="user-content-fnref-1-8e6030" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>. The ENABLE model explains how systemic inaccessibility cultivates skills and conditions that can lead to entrepreneurial endeavors as a form of response and survival.</p>
+        <content type="html"><![CDATA[<p>People with disabilities are <em>more likely</em> to be entrepreneurs. The ENABLE model provides a framework for understanding accessibility breakdowns and the resulting burden placed on disabled individuals<sup><a href="https://enable-model.github.io/blog/how-enable-model-explains-disabled-entrepreneurship#user-content-fn-1-fd38bc" id="user-content-fnref-1-fd38bc" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup>. The ENABLE model explains how systemic inaccessibility cultivates skills and conditions that can lead to entrepreneurial endeavors as a form of response and survival.</p>
 <p>Here's how the ENABLE model would explain this phenomenon:</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="necessity-as-the-mother-of-invention-post-launch-compensations"><strong>Necessity as the Mother of Invention (Post-launch Compensations):</strong><a href="https://enable-model.github.io/blog/how-enable-model-explains-disabled-entrepreneurship#necessity-as-the-mother-of-invention-post-launch-compensations" class="hash-link" aria-label="Direct link to necessity-as-the-mother-of-invention-post-launch-compensations" title="Direct link to necessity-as-the-mother-of-invention-post-launch-compensations">​</a></h2>
 <p>When designers, developers, and decision-makers neglect accessibility, disabled people are left to "carry the cost" and "shoulder" the labor. This often translates into "post-launch compensations," which are "acts of survival people are burdened with when accessibility is an afterthought". These compensations require significant ingenuity and problem-solving. For instance:</p>
@@ -28,8 +97,8 @@
 <!-- -->
 <section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="https://enable-model.github.io/blog/how-enable-model-explains-disabled-entrepreneurship#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
 <ol>
-<li id="user-content-fn-1-8e6030">
-<p><a href="https://enable-model.github.io/docs/intro">Intro</a> . <a href="https://enable-model.github.io/blog/how-enable-model-explains-disabled-entrepreneurship#user-content-fnref-1-8e6030" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
+<li id="user-content-fn-1-fd38bc">
+<p><a href="https://enable-model.github.io/docs/intro">Intro</a> . <a href="https://enable-model.github.io/blog/how-enable-model-explains-disabled-entrepreneurship#user-content-fnref-1-fd38bc" data-footnote-backref="" aria-label="Back to reference 1" class="data-footnote-backref">↩</a></p>
 </li>
 </ol>
 </section>]]></content>
@@ -59,7 +128,7 @@
 </blockquote>
 <p>At its heart, ENABLE maps a dual system:</p>
 <ul>
-<li><strong>Pre-launch interventions</strong>: What builders (developers, designers, institutions) can do before a product or system reaches the public.</li>
+<li><strong>Pre-launch Care</strong>: What builders (developers, designers, institutions) can do before a product or system reaches the public.</li>
 <li><strong>Post-launch compensations</strong>: What end-users are forced to do after the fact, when accessibility was an afterthought.</li>
 </ul>
 <p>When builders <strong>care early</strong>, barriers are prevented.<br>
@@ -77,7 +146,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What's next<a href="https://enable-model.github.io/blog/introducing-enable#whats-next" class="hash-link" aria-label="Direct link to What's next" title="Direct link to What's next">​</a></h3>
 <p>This blog will break it all down:</p>
 <ul>
-<li>The seven <strong>pre-launch interventions</strong> and how AI is being used in each.</li>
+<li>The seven <strong>pre-launch Care</strong> and how AI is being used in each.</li>
 <li>The eight categories of <strong>post-launch compensations</strong> -- from installing browser extensions to relying on other humans.</li>
 <li>Real-world stories. Real burdens. Real possibilities.</li>
 </ul>
