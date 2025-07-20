@@ -15,15 +15,15 @@
         <content type="html"><![CDATA[<p>The ENABLE Model serves as a comprehensive field guide for understanding accessibility failures and, more importantly, for fostering a more equitable and accessible world by mapping the gap between intended care and the burden placed on disabled individuals. It is designed for a wide range of "stakeholders" including builders, caretakers, activists, educators, researchers, leaders, and anyone who believes accessibility is a necessary form of care.</p>
 <p>To use the ENABLE Model effectively, stakeholders can approach any broken experience by answering four key questions:</p>
 <ol>
-<li><strong>Where could access have been delivered earlier?</strong> This focuses on <strong>Pre-launch Care</strong>.</li>
+<li><strong>Where could access have been delivered earlier?</strong> This focuses on <strong>Pre-launch Interventions</strong>.</li>
 <li><strong>Who's carrying the burden now -- and how?</strong> This highlights <strong>Post-launch Compensations</strong>.</li>
 <li><strong>What caused or sustained the problem?</strong> This explores the <strong>Forces that Disable</strong> and <strong>Forces that Enable</strong>.</li>
 <li><strong>What have people actually done in response -- to prevent harm or survive it?</strong> This involves examining <strong>Manifestations</strong>.</li>
 </ol>
-<p>The model emphasizes that accessibility has two halves: <strong>Pre-launch Care</strong>, which are acts of care preventing inaccessibility before a product or service is released, and <strong>Post-launch Compensations</strong>, which are the acts of survival people are burdened with when accessibility is an afterthought. When care fails upstream with the builders, the burden grows and lands downstream on the end-users. By understanding both sides, stakeholders can take action.</p>
+<p>The model emphasizes that accessibility has two halves: <strong>Pre-launch Interventions</strong>, which are acts of care preventing inaccessibility before a product or service is released, and <strong>Post-launch Compensations</strong>, which are the acts of survival people are burdened with when accessibility is an afterthought. When care fails upstream with the builders, the burden grows and lands downstream on the end-users. By understanding both sides, stakeholders can take action.</p>
 <p>Here's how various stakeholders can use the ENABLE Model:</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-builders-designers-and-developers">1. Builders, Designers, and Developers<a href="https://enable-model.github.io/blog/how-various-stakeholders-use-ENABLE-Model-foster-more-equitable-accessible-world#1-builders-designers-and-developers" class="hash-link" aria-label="Direct link to 1. Builders, Designers, and Developers" title="Direct link to 1. Builders, Designers, and Developers">​</a></h3>
-<p>This group is central to the <strong>Pre-launch Care</strong> phase, where fixes are smaller, cheaper, and kinder. Their role is to proactively embed accessibility.</p>
+<p>This group is central to the <strong>Pre-launch Interventions</strong> phase, where fixes are smaller, cheaper, and kinder. Their role is to proactively embed accessibility.</p>
 <ul>
 <li><strong>Set Requirements that Include Accessibility</strong>: Designers, developers, and project leads should <strong>mandate inclusion from the outset</strong>, defining accessibility as a core obligation rather than an add-on. This prevents exclusion from being "baked into infrastructure". <em>Care sounds like:</em> "Our speech recognition AI must be usable by people who stutter". <em>Neglect sounds like:</em> "Accessibility is not a deliverable" or "It's not in the spec". Examples include incorporating WCAG 2.2 compliance into design contracts or making accessibility part of the "definition of done" for all features.</li>
 <li><strong>Create Accessible Content</strong>: Content creators must ensure words, images, media, documents, and data are perceivable, understood, and interactive for people with disabilities in accessible formats. <em>Care sounds like:</em> "Our slide deck must include alt text for all images" or "Let's produce a transcript and a plain language summary alongside this podcast". <em>Neglect sounds like:</em> "The visuals are self-explanatory, no need to describe them".</li>
@@ -62,7 +62,7 @@
 <li><strong>Providing Feedback</strong>: Users can submit bug reports and feedback, holding creators accountable for accessibility issues. While this is a burden, it can also be a catalyst for improvement.</li>
 </ul>
 <p>In essence, the ENABLE Model provides a <strong>vocabulary for care and neglect</strong>, a <strong>map of roles</strong>, a <strong>structure that includes tech, policy, education, and more</strong>, and a <strong>compass for anyone who wants to build a more equitable world</strong>. It shifts the focus from disability as a personal problem to inaccessibility as a systemic failure, encouraging proactive solutions over reactive burdens.</p>
-<p>Utilizing the ENABLE Model is like being a cartographer for a complex city: you don't just map the inaccessible roads (post-launch compensations) but also identify where the bridges could have been built (pre-launch care), recognize the forces that allowed roads to crumble, and share stories of those navigating the terrain, all to ultimately help redesign the city to be traversable for everyone.</p>
+<p>Utilizing the ENABLE Model is like being a cartographer for a complex city: you don't just map the inaccessible roads (post-launch compensations) but also identify where the bridges could have been built (pre-launch interventions), recognize the forces that allowed roads to crumble, and share stories of those navigating the terrain, all to ultimately help redesign the city to be traversable for everyone.</p>
 <hr>
 <p>💡 <a href="https://enable-model.github.io/docs/intro">Dive into the ENABLE model now →</a></p>]]></content>
         <author>
@@ -128,7 +128,7 @@
 </blockquote>
 <p>At its heart, ENABLE maps a dual system:</p>
 <ul>
-<li><strong>Pre-launch Care</strong>: What builders (developers, designers, institutions) can do before a product or system reaches the public.</li>
+<li><strong>Pre-launch interventions</strong>: What builders (developers, designers, institutions) can do before a product or system reaches the public.</li>
 <li><strong>Post-launch compensations</strong>: What end-users are forced to do after the fact, when accessibility was an afterthought.</li>
 </ul>
 <p>When builders <strong>care early</strong>, barriers are prevented.<br>
@@ -146,7 +146,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What's next<a href="https://enable-model.github.io/blog/introducing-enable#whats-next" class="hash-link" aria-label="Direct link to What's next" title="Direct link to What's next">​</a></h3>
 <p>This blog will break it all down:</p>
 <ul>
-<li>The seven <strong>pre-launch Care</strong> and how AI is being used in each.</li>
+<li>The seven <strong>pre-launch interventions</strong> and how AI is being used in each.</li>
 <li>The eight categories of <strong>post-launch compensations</strong> -- from installing browser extensions to relying on other humans.</li>
 <li>Real-world stories. Real burdens. Real possibilities.</li>
 </ul>
