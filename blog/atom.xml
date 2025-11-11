@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://enablemodel.com/blog</id>
     <title>ENABLE Model Blog</title>
-    <updated>2025-11-10T00:00:00.000Z</updated>
+    <updated>2025-11-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://enablemodel.com/blog"/>
     <subtitle>ENABLE Model Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Positionality in the ENABLE Model]]></title>
+        <id>https://enablemodel.com/blog/positionality</id>
+        <link href="https://enablemodel.com/blog/positionality"/>
+        <updated>2025-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Linguistic and Positionality Enforcement Rules]]></summary>
+        <content type="html"><![CDATA[<p>Linguistic and Positionality Enforcement Rules</p>
+<ol>
+<li>
+<p>No existential or identity statements (“X is…”)
+Every description must identify human or collective actors performing actions. Replace all “is/are/was/were” patterns with active voice formulations that express doing, making, maintaining, deciding, resisting, or compensating.
+🚫 “AccessNow is an app that maps accessibility.”
+✅ “People use AccessNow to map and share accessibility information.”
+🚫 “AgrAbility is a program supporting disabled farmers.”
+✅ “Extension specialists under AgrAbility connect disabled farmers with adaptive tools.”</p>
+</li>
+<li>
+<p>Always attribute agency
+Sentences must identify who acts and what effect follows. When the actor is ambiguous, use a placeholder such as “designers,” “advocates,” “maintainers,” or “users” to preserve agency.</p>
+</li>
+<li>
+<p>Active voice only
+Never use passive formulations (“was launched,” “is provided,” “are supported”). Instead, attribute the action directly:
+🚫 “Accessibility features were added.”
+✅ “Developers added accessibility features after public feedback.”</p>
+</li>
+<li>
+<p>Systems are processes, not entities
+Describe manifestations as activities sustained by people, not as self-contained objects.
+🚫 “The policy is a framework for inclusion.”
+✅ “Policy makers use the framework to set inclusion standards.”</p>
+</li>
+<li>
+<p>Causality through verbs, not nouns
+Accessibility, inclusion, or neglect should emerge from verbs (acting, omitting, adjusting, relying) -- not from static nouns (frameworks, commitments, programs).</p>
+</li>
+</ol>]]></content>
+        <author>
+            <name>Lawrence (Larry) Weru</name>
+            <uri>https://lweru.com</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Contributing Manifestations to the ENABLE Model]]></title>
         <id>https://enablemodel.com/blog/investigating-contributing-manifestations</id>
